@@ -1,6 +1,6 @@
 # tradigiTOOLS
 
-Animation tools for CG Animation Programs
+Powerful tradional workflows via a robust toolset.
 
 tradigitools
 
